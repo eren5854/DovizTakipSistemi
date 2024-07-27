@@ -1,0 +1,15 @@
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.deps.json
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.dll
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.pdb
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Domain.dll
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Domain.pdb
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.csproj.AssemblyReference.cache
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.AssemblyInfoInputs.cache
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.AssemblyInfo.cs
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.csproj.CoreCompileInputs.cache
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTak.A25FCB07.Up2Date
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.dll
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\refint\DovizTakipServer.Application.dll
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.pdb
+E:\Eren\Projeler\Projects\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\ref\DovizTakipServer.Application.dll

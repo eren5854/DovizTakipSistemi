@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizTakipServer.Application", "DovizTakipServer.Application\DovizTakipServer.Application.csproj", "{A3B8CE6C-72E0-4585-BE14-4CCD9CD3B70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizTakipServer.Domain", "DovizTakipServer.Domain\DovizTakipServer.Domain.csproj", "{894AE782-3B7A-4DAC-9075-1EA6C516784C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizTakipServer.Infrastructure", "DovizTakipServer.Infrastructure\DovizTakipServer.Infrastructure.csproj", "{A15CCC6E-0ED7-409E-A480-90048E696570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DovizTakipServer.WebAPI", "DovizTakipServer.WebAPI\DovizTakipServer.WebAPI.csproj", "{C946F119-B9E9-4007-AEC8-0335FBD43F9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3B8CE6C-72E0-4585-BE14-4CCD9CD3B70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B8CE6C-72E0-4585-BE14-4CCD9CD3B70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B8CE6C-72E0-4585-BE14-4CCD9CD3B70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B8CE6C-72E0-4585-BE14-4CCD9CD3B70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894AE782-3B7A-4DAC-9075-1EA6C516784C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894AE782-3B7A-4DAC-9075-1EA6C516784C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894AE782-3B7A-4DAC-9075-1EA6C516784C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894AE782-3B7A-4DAC-9075-1EA6C516784C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15CCC6E-0ED7-409E-A480-90048E696570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15CCC6E-0ED7-409E-A480-90048E696570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15CCC6E-0ED7-409E-A480-90048E696570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15CCC6E-0ED7-409E-A480-90048E696570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C946F119-B9E9-4007-AEC8-0335FBD43F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C946F119-B9E9-4007-AEC8-0335FBD43F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C946F119-B9E9-4007-AEC8-0335FBD43F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C946F119-B9E9-4007-AEC8-0335FBD43F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0167F671-268A-457C-B922-523EFC6EA586}
+	EndGlobalSection
+EndGlobal
